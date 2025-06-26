@@ -1,0 +1,12 @@
+numpy==1.26.4
+seaborn==0.13.2
+tqdm==4.23.4
+tensorflow==2.10.0
+scikit-learn==1.5.1
+matplotlib==3.8.4
+h5py==3.14.0
+pywavelets==1.6.0
+keras==2.10.0
+libmr==0.1.9
+tqdm==4.23.4
+wfdb==4.1.2

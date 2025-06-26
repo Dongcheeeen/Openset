@@ -16,7 +16,7 @@ If you find our model/method/dataset useful, please cite our work：XXXXX
 
 **The paper has not yet been accepted and only a demo version is currently available.**
 
- [Xidong Wu](https://github.com/xidong66) 
+ [Xidong Wu](https://github.com/xidong66) ,
 Dongchen Wu
 6.26
 
